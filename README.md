@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Active Directory Home Lab (PowerShell)</b>
+- <b> Active Directory Home Lab (https://github.com/NG-Zondo/Active--Directory--Lab-)</b>
   
 <h2> Certifications : </h2>
 
